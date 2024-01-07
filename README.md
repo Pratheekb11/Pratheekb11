@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratheekb11
-- 👀 I’m interested in Web development and AI
-- 🌱 I’m currently learning concepts of AI
-- 💞️ I’m looking to collaborate on web developement projects
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning concepts of backend  web development
+- I’m looking to collaborate on web developement projects
 - 📫 How to reach me you can mail me at bpratheek122@gmail.com
 
 <!---
