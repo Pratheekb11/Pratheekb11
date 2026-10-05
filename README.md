@@ -76,12 +76,6 @@ FastAPI, React, Vite. The PRD came before the first line of code: personas,
 functional requirements, C4 architecture, and enough customer discovery
 interviews to execute several assumptions I had grown attached to.
 
-### CASE 004 · [REDACTED]
-**Status:** INTERNAL. Bosch.
-
-An agentic SDLC orchestrator that keeps context alive across multi-agent
-pipelines, and a VS Code tooling suite engineers have not uninstalled.
-
 ---
 
 ```
